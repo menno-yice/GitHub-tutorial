@@ -13,6 +13,11 @@ Maak als volgt een GitHub account aan:
 3. Vul de benodigde velden in
 4. Gebruikersnaam format: 'voornaam-yice'
 
-![Dashboard](GitHub Dashboard.png)
+Na het aanmaken van een account kom je meteen terecht op de dashboard van GitHub:
 
-### Een repository clonen
+<img src="GitHub-Dashboard.png" alt="Dashboard" width="70%">
+
+
+### Repositories
+
+Git maakt gebruik van projectfolders die 'repositories' worden genoemd. Links op het dashboard zie 
