@@ -13,6 +13,6 @@ Maak als volgt een GitHub account aan:
 3. Vul de benodigde velden in
 4. Gebruikersnaam format: 'voornaam-yice'
 
-SCREENSHOT HIER
+![Dashboard](GitHub Dashboard.png)
 
 ### Een repository clonen
