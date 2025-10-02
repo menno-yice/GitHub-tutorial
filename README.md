@@ -14,7 +14,7 @@ Maak als volgt een GitHub account aan:
 3. Vul de benodigde velden in
 4. Gebruikersnaam format: 'voornaam-yice'
 
-Na het aanmaken van een account kom je meteen terecht op de dashboard van GitHub:
+Na het aanmaken van een account kom je meteen terecht op de **Dashboard** van GitHub:
 
 <img src="img/GitHub-Dashboard.png" alt="Dashboard" width="70%">
 
@@ -26,9 +26,12 @@ Git maakt gebruik van projectfolders die 'repositories' (ookwel 'repos' om het k
 
 ### Downloads
 
-Naast het clonen van de broncode kan je op GitHub vaak natuurlijk ook gewoon de programma's en applicaties zelf downloaded. Veel projecten hebben helaas GEEN toegewijde 'Download' knop waarmee je de laatste versie van een met Git gedeelde applicatie kan downloaden. Downloaden als gebruiker kan vaak via de **Releases** pagina:
+Naast het clonen van de broncode kan je op GitHub vaak natuurlijk ook gewoon de programma's en applicaties zelf downloaden. Veel projecten hebben helaas GEEN toegewijde 'Download' knop waarmee je de laatste versie van een met Git gedeelde applicatie kan downloaden. Downloaden als gebruiker kan vaak via de **Releases** pagina:
 
 <img src="img/Releases.png" alt="Releases" width="70%">
 
+Hier kun je onder **Assets** vaak de verschillende versies als een .zip bestand downloaden:
 
-als de installatie iets anders is staat dit vaak in een README.md bestand. Developers geven vaak uitleg over de installatie en het gebruik van hun software in dit bestand, als een repo een README.md heeft is deze vaak direct te zien zodra je de repo bekijkt op GitHub. De '.md' extensie duidt aan dat dat de README in 'markdown' is geschreven. Dit is een taaltje dat text op een nette manier formatteert zodat het eindresultaat als PDF of HTML document kan worden geëxporteerd. Deze tutorial is bovendien in markdown geschreven en dit bestand staat als README in een openbare repo op GitHub, waar jullie met de volgende URL toegang tot kunnen krijgen: [https://github.com/menno-yice/GitHub-tutorial](https://github.com/menno-yice/GitHub-tutorial)
+<img src="img/Assets.png" alt="Assets" width="70%">
+
+Als de installatie iets anders is staat dit vaak in een README.md bestand. Developers geven vaak uitleg over de installatie en het gebruik van hun software in dit bestand, als een repo een README.md heeft is deze vaak direct te zien zodra je de repo bekijkt op GitHub. De '.md' extensie duidt aan dat dat de README in 'markdown' is geschreven. Dit is een taaltje dat text op een nette manier formatteert zodat het eindresultaat als PDF of HTML document kan worden geëxporteerd. Deze tutorial is bovendien in markdown geschreven en dit bestand staat als README in een openbare repo op GitHub, waar jullie met de volgende URL toegang tot kunnen krijgen: [https://github.com/menno-yice/GitHub-tutorial](https://github.com/menno-yice/GitHub-tutorial)
