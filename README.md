@@ -9,7 +9,7 @@ GitHub is gebruikersplatform voor de online source-code management tool Git, die
 
 Maak als volgt een GitHub account aan:
 
-1. Navigeer naar github.com
+1. Navigeer naar [github.com](github.com)
 2. Klik op **Sign up**
 3. Vul de benodigde velden in
 4. Gebruikersnaam format: 'voornaam-yice'
@@ -34,4 +34,6 @@ Hier kun je onder **Assets** vaak de verschillende versies als een .zip bestand 
 
 <img src="img/Assets.png" alt="Assets" width="70%">
 
-Als de installatie iets anders is staat dit vaak in een README.md bestand. Developers geven vaak uitleg over de installatie en het gebruik van hun software in dit bestand, als een repo een README.md heeft is deze vaak direct te zien zodra je de repo bekijkt op GitHub. De '.md' extensie duidt aan dat dat de README in 'markdown' is geschreven. Dit is een taaltje dat text op een nette manier formatteert zodat het eindresultaat als PDF of HTML document kan worden geëxporteerd. Deze tutorial is bovendien in markdown geschreven en dit bestand staat als README in een openbare repo op GitHub, waar jullie met de volgende URL toegang tot kunnen krijgen: [https://github.com/menno-yice/GitHub-tutorial](https://github.com/menno-yice/GitHub-tutorial)
+Als de installatie iets anders loopt staat dit vaak in een README.md bestand. Developers geven vaak uitleg over de installatie en het gebruik van hun software in dit bestand, als een repo een README.md heeft is deze vaak direct te zien zodra je de repo bekijkt op GitHub als je naar beneden scrollt. De '.md' extensie duidt aan dat dat de README in 'markdown' is geschreven. Dit is een zogeheten 'markup language' die text op een nette manier formatteert zodat het eindresultaat als PDF of HTML document kan worden geëxporteerd. Deze tutorial is bovendien in markdown geschreven en staat als README in een openbare repo op GitHub, waar jullie met de volgende URL toegang tot kunnen krijgen: [https://github.com/menno-yice/GitHub-tutorial](https://github.com/menno-yice/GitHub-tutorial)
+
+
