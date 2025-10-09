@@ -61,7 +61,7 @@ Vaak wil je gewoon de code downloaden op je machine zonder al teveel gedoe. Dit 
 
 Je ziet dan de optie Download ZIP staan:
 
-<img src="img/Download.png" alt="Download" width=60%>
+<img src="img/download.png" alt="Download" width=60%>
 
 Plaats het .zip bestand waar je het hebben wilt en *That's it!*
 Nu ben je trotse eigenaar van de broncode van de repo. 
