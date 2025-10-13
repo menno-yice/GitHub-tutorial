@@ -40,7 +40,7 @@ Maakt een lokale kopie van een repo. Zorgt ervoor dat alle developers die aan he
 
 Maakt een vertakking van de huidige versie van een project, zodat je individueel er aan kunt werken en je eigen aanpassingen kunt toevoegen in een nieuwe versie.
 
-Met een URL kan je ook gewoon een kijkje nemen naar een repo zonder dat je iets hoeft te maken of downloaden. Onderaan de pagina kun je uitleg vinden over een repo in een zogeheten README. Vrijwel elke repo begint met een README.md bestand met praktische informatie en gebruiksinstructies. Dit bestand is overigens als README beschikbaar in een online repo. Navigeer naar: [https://github.com/menno-yice/GitHub-tutorial](https://github.com/menno-yice/GitHub-tutorial)
+Met een URL kan je ook gewoon een kijkje nemen naar een repo zonder dat je iets hoeft te maken of downloaden. Onderaan de pagina kun je uitleg vinden over een repo in een zogeheten README. Vrijwel elke repo begint met een README.md bestand met praktische informatie en gebruiksinstructies. Het bestand dat je nu leest is overigens als README beschikbaar in een online repo. Navigeer naar: [https://github.com/menno-yice/GitHub-tutorial](https://github.com/menno-yice/GitHub-tutorial)
 
 
 <div style="background-color: #f8f9fa; border: 1px solid #e9ecef; border-left: 4px solid #6c757d; padding: 15px; margin: 10px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
