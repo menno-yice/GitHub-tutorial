@@ -22,7 +22,7 @@ Na het aanmaken van een account kom je meteen terecht op de **Dashboard** van Gi
 
 ## Repositories
 
-Git maakt gebruik van projectfolders die 'repositories' (ookwel 'repos' om het kort te houden) worden genoemd. Links op het dashboard zie je de optie om een repo aan te maken of te importeren. Dit zijn echter niet de enige manieren om aan een repo met broncode te komen. Git biedt verschillende manieren om aan de ontwikkelingsmiddelen van een projecten te komen, elke manier heeft zo zijn eigen voor- en nadelen. Je hebt:
+Git maakt gebruik van projectfolders die 'repositories' (ookwel 'repos' om het kort te houden) worden genoemd. Links op het dashboard zie je de optie om een repo aan te maken of te importeren. Dit zijn echter niet de enige manieren om aan een repo met broncode te komen. Git biedt verschillende manieren om aan de ontwikkelingsmiddelen van projecten te komen, elke manier heeft zo zijn eigen voor- en nadelen. Je hebt:
 
 - **CREATE**
 
