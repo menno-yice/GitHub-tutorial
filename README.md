@@ -65,3 +65,7 @@ Je ziet dan de optie Download ZIP staan:
 
 Plaats het .zip bestand waar je het hebben wilt en *That's it!*
 Nu ben je trotse eigenaar van de broncode van de repo. 
+
+## YICE
+
+Aangezien de code van YICE in een private repo staat, moet toegang eerst verstrekt worden door de eigenaar. Zoek contact op met Erik om toegang te krijgen en volg de instructies van deze tutorial om de broncode te installeren.
