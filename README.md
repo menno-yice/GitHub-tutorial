@@ -43,7 +43,7 @@ Maakt een vertakking van de huidige versie van een project, zodat je individueel
 Met een URL kan je ook gewoon een kijkje nemen naar een repo zonder dat je iets hoeft te maken of downloaden. Onderaan de pagina kun je uitleg vinden over een repo in een zogeheten README. Vrijwel elke repo begint met een README.md bestand met praktische informatie en gebruiksinstructies. Het bestand dat je nu leest is overigens als README beschikbaar in een online repo. Navigeer naar: [https://github.com/menno-yice/GitHub-tutorial](https://github.com/menno-yice/GitHub-tutorial)
 
 
-<div style="background-color:rgb(180, 180, 180); border: 1px solid #e9ecef; border-left: 4px solid #6c757d; padding: 15px; margin: 10px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+<div style="background-color: #f8f9fa; border: 1px solid #e9ecef; border-left: 4px solid #6c757d; padding: 15px; margin: 10px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
   <div style="display: flex; align-items: flex-start;">
     <span style="font-size: 18px; margin-right: 10px; color: #6c757d;">ℹ️</span>
     <div style="color: #343a40;">
@@ -51,6 +51,9 @@ Met een URL kan je ook gewoon een kijkje nemen naar een repo zonder dat je iets 
     </div>
   </div>
 </div>
+
+> [!WARNING]
+> Repos die door de eigenaar 'public' zijn gemaakt kunnen door iedereen bereikt worden met een URL, terwijl 'private' repos alleen beschikbaar zijn voor diegenen met wie de repo is gedeeld.
 
 
 ## Downloading
