@@ -124,11 +124,11 @@ Een voorbeeld van een workflow op de command-line zou er dus als volgt uit kunne
 
 Naast de core commands zijn er hier nog wat aanvullende commands die handig zijn om te weten:
 
-`git status` -> geeft een overzicht van alle dingen die al of nog niet 'staged' zijn voor een commit
+`git status` -> geeft een overzicht van alle dingen die al of nog niet 'staged' zijn voor een commit.
 
-`git branch` -> bekijk welke branches er zijn en op welke je momenteel aan het werken bent
+`git branch` -> bekijk welke branches er zijn en op welke je momenteel aan het werken bent.
 
-`git log` -> geeft een overzicht van de meest recente commits
+`git log` -> geeft een overzicht van de meest recente commits.
 
-`git fetch` -> haal updates binnen zonder te merge’en; combineer met `git merge` of `git rebase`
+`git fetch` -> haal updates binnen zonder te merge’en; combineer met `git merge` of `git rebase`.
 
