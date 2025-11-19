@@ -96,7 +96,7 @@ Met SYNC breng je twee branches samen door, in principe, PULL + PUSH te combiner
 
 Een voorbeld van een workflow op de command-line zou er dus als volgt uit kunnen zien:
 
-
+<img src="img/workflow.png" alt="Dashboard" width="70%">
 
 ### Overige commands:
 
