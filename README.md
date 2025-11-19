@@ -52,7 +52,7 @@ Met een URL kan je ook gewoon een kijkje nemen naar een repo zonder dat je iets 
   </div>
 </div>
 
-> [!WARNING]
+> [!LET OP]
 > Repos die door de eigenaar 'public' zijn gemaakt kunnen door iedereen bereikt worden met een URL, terwijl 'private' repos alleen beschikbaar zijn voor diegenen met wie de repo is gedeeld.
 
 
